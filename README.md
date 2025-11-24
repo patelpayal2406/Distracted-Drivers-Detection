@@ -1,3 +1,5 @@
 # Distracted-Drivers-Detection
 
 The Distracted Drivers Detection project involves detecting different actions of distracted driving in order to alert the driver of the distraction. The Python project builds a convolutional neural network and salient map model with high accuracy in detection to prevent future accidents. Images from driver-facing cameras are grouped into four categories: Drinking Coffee, Using Radio, Using Mirror, and Attentive. The model is trained and tested on with uploaded data to recognize the different types of driver attentiveness. Neural networks and salient maps are utilized to layer pixels of each image and match features to the test data for accurate detection of attentiveness. Results are displayed in various graphs to show success and error of the machine.
+
+The uploaded presentation provides accuracy rates that were outputted the time of the project presentation. The uploaded notebooks have been reran since then with current Python libraries and parameters which have modified the accuracy rates of the model.
